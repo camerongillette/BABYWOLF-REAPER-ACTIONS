@@ -14,7 +14,7 @@ workflow of using the REAPER DAW
 ## Installation
 
 1. Download the actions
-2. Place them in your REAPER Scripts folder
+2. Place them in your REAPER Scripts folder (%appdata%\Reaper\Scripts on Windows)
 3. Import them into REAPER's Action List
 
 ## Author
